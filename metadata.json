@@ -1,0 +1,6 @@
+{
+  "name": "AI Video Pipeline Debugger & Diagnostics",
+  "description": "Studio sản xuất video & audiobook AI chuyên nghiệp với Python 3.12.7, tích hợp Gradio TTS Localhost 7768 (nghe thử giọng, chỉnh tốc độ đọc), kho SFX miễn phí thương mại và bộ chẩn đoán đường ống video.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
